@@ -1,0 +1,20 @@
+.group-members-container {
+    text-align: center;
+    padding: 20px;
+    color:#333;
+  }
+  
+  .group-members-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .group-members-list li {
+    margin: 5px 0;
+    font-size: 18px;
+    color: #333;
+  }
+  .image{
+    width: 50px;
+    height: 50px;
+  }
